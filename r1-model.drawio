@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="uipzM7C1Z6QIqVT_M0VU">
-    <mxGraphModel dx="713" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6299" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6299" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-1" value="Factor influencing Digital knowledge (DK) for Digital transformation (DX)&lt;div&gt;eTPB + SEM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="770" height="40" as="geometry" />
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="780" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-1" value="Factor influencing Digital knowledge (DK) for Digital transformation (DX)&lt;div&gt;eTPB (Social cognitive theory + Theory of Planned Behavior) + SEM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-2" target="VJUpxQQ3Kgo22wYn7tkb-8">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +37,7 @@
           <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-6" value="Digital Knowledge (DK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-7">
           <mxGeometry relative="1" as="geometry">
@@ -61,13 +64,16 @@
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-8" value="Intention to Learn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-9">
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-9" value="Platform Community Participation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-18" target="VJUpxQQ3Kgo22wYn7tkb-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-18" value="Self-Regulated Digital Learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
@@ -94,12 +100,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="350" as="sourcePoint" />
             <mxPoint x="420" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-4" target="VJUpxQQ3Kgo22wYn7tkb-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="330" as="sourcePoint" />
-            <mxPoint x="190" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-4" target="VJUpxQQ3Kgo22wYn7tkb-2">
@@ -129,10 +129,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-20" target="VJUpxQQ3Kgo22wYn7tkb-18">
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-48" value="Factor influencing Digital Usage (DU) for Digital transformation (DX)&lt;div&gt;eTPB (Social cognitive theory + Theory of Planned Behavior) + SEM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJUpxQQ3Kgo22wYn7tkb-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJUpxQQ3Kgo22wYn7tkb-5" target="VJUpxQQ3Kgo22wYn7tkb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="320" as="sourcePoint" />
-            <mxPoint x="580" y="270" as="targetPoint" />
+            <mxPoint x="150" y="440" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
