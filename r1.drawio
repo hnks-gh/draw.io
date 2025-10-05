@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Page-1" id="5s9dV3dyt0xUDawJFrkX">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6299" pageHeight="3937" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6299" pageHeight="3937" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,6 +855,9 @@
         </mxCell>
         <mxCell id="TM9vCrf7aip0FQeYukM7-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3700" y="2260" width="160" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="TM9vCrf7aip0FQeYukM7-26" value="SEM + WTP&lt;br&gt;RegSEM / Bayesian SEM/SEM Trees / SEM Forests&lt;div&gt;CVML&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="1600" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
