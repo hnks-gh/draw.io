@@ -303,6 +303,9 @@
         <mxCell id="JraFAlGc5kjI8LkrbG-8-69" value="Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1720" y="480" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JraFAlGc5kjI8LkrbG-8-78" value="Fuzzy AHP weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="120" width="920" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
