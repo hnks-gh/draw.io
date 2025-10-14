@@ -69,13 +69,13 @@
         <mxCell id="JraFAlGc5kjI8LkrbG-8-22" value="&lt;a href=&quot;https://www.researchgate.net/profile/Andreea-Molnar/publication/261705281/figure/fig2/AS:296846040813569@1447785019231/UTAUT2-Venkatesh-et-al-2012_W640.jpg&quot;&gt;UTAUT2&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JraFAlGc5kjI8LkrbG-8-37" value="Environment Culture Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="JraFAlGc5kjI8LkrbG-8-37" value="Environment Culture Indicator (ECI)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1340" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-46" value="Creative Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1540" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JraFAlGc5kjI8LkrbG-8-68" value="Clean Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="JraFAlGc5kjI8LkrbG-8-68" value="Ideology Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="JraFAlGc5kjI8LkrbG-8-69" target="JraFAlGc5kjI8LkrbG-8-68" edge="1">
@@ -84,7 +84,7 @@
         <mxCell id="JraFAlGc5kjI8LkrbG-8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="JraFAlGc5kjI8LkrbG-8-69" target="JraFAlGc5kjI8LkrbG-8-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JraFAlGc5kjI8LkrbG-8-69" value="Youth Readiness Quad Index&lt;div&gt;NextGen 4P Index&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="JraFAlGc5kjI8LkrbG-8-69" value="&lt;div&gt;Youth Development Index&lt;/div&gt;Youth Readiness Quad Index&lt;div&gt;NextGen 4P Index&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1340" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-83" value="&lt;a href=&quot;https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs43621-024-00350-y/MediaObjects/43621_2024_350_Fig2_HTML.png&quot;&gt;Culture Tower&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -451,6 +451,9 @@
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-16" value="The 5S management model is a Japanese methodology, originally developed as part of the Toyota Production System (TPS), used to organize a workplace for efficiency, effectiveness, and safety. It serves as a foundation for Lean Manufacturing and a culture of continuous improvement (Kaizen)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2070" y="280" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YTi5mtp675GB_ehV7Arj-17" value="Environment Culture Indicator (ECI)&amp;nbsp;model. KAUC culture tower +&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="918" width="680" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
