@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="uipzM7C1Z6QIqVT_M0VU">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3333" pageHeight="1875" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3333" pageHeight="1875" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WrVXneuRbyzUBc2z9xAi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="560" width="140" height="160" as="geometry" />
+          <mxGeometry x="1490" y="560" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="381" width="290" height="80" as="geometry" />
+          <mxGeometry x="920" y="381" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VJUpxQQ3Kgo22wYn7tkb-48" value="Digital Skills Indicator (DSI) model. UTAUT2 (SI, FC, BI, Age, Gender, Experience) + TAM (PU) + SET (DSE) + DigComp 2.2 (IDL, CC, DCC, ST, PS)&lt;div&gt;wait for&amp;nbsp;DigComp &lt;b&gt;3.0 &lt;/b&gt;framework release at the end of 2025&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="1120" height="40" as="geometry" />
@@ -70,28 +70,25 @@
           <mxGeometry x="440" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-37" value="Environment Culture Indicator (ECI)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-46" value="Creative Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" y="390.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-68" value="Ideology Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="JraFAlGc5kjI8LkrbG-8-69" target="JraFAlGc5kjI8LkrbG-8-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JraFAlGc5kjI8LkrbG-8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="JraFAlGc5kjI8LkrbG-8-69" target="JraFAlGc5kjI8LkrbG-8-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-69" value="&lt;div&gt;Youth Development Index/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Youth Readiness Index/&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NextGen 4P Index&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="1500" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-83" value="&lt;a href=&quot;https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs43621-024-00350-y/MediaObjects/43621_2024_350_Fig2_HTML.png&quot;&gt;Culture Tower&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-86" value="Digital Skills weight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JraFAlGc5kjI8LkrbG-8-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JraFAlGc5kjI8LkrbG-8-88" target="JraFAlGc5kjI8LkrbG-8-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,7 +147,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="WrVXneuRbyzUBc2z9xAi-2" value="Environment Culture weight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WrVXneuRbyzUBc2z9xAi-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WrVXneuRbyzUBc2z9xAi-4" target="JraFAlGc5kjI8LkrbG-8-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -444,28 +441,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-1" value="5S management model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="2930" y="401" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-2" value="Sort" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="3130" y="241" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-7" value="Set in Order" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="3130" y="321" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-8" value="Shine" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="3130" y="401" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-9" value="Standardize" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="3130" y="481" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-10" value="Sustain&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="3130" y="561" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-16" value="The 5S management model is a Japanese methodology, originally developed as part of the Toyota Production System (TPS), used to organize a workplace for efficiency, effectiveness, and safety. It serves as a foundation for Lean Manufacturing and a culture of continuous improvement (Kaizen)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="280" width="250" height="120" as="geometry" />
+          <mxGeometry x="2800" y="241" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YTi5mtp675GB_ehV7Arj-17" value="Environment Culture Indicator (ECI)&amp;nbsp;model. KAUC culture tower +&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1140" width="680" height="42" as="geometry" />
+          <mxGeometry x="700" y="1040" width="1700" height="42" as="geometry" />
         </mxCell>
         <mxCell id="naN7DAV6BuH__tkbcKJ9-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="naN7DAV6BuH__tkbcKJ9-1" target="WrVXneuRbyzUBc2z9xAi-6">
           <mxGeometry relative="1" as="geometry" />
@@ -759,6 +756,18 @@
         </mxCell>
         <mxCell id="naN7DAV6BuH__tkbcKJ9-103" value="WTP for learning Digital Skills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="naN7DAV6BuH__tkbcKJ9-107" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="naN7DAV6BuH__tkbcKJ9-105" target="JraFAlGc5kjI8LkrbG-8-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="naN7DAV6BuH__tkbcKJ9-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="381" width="280" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="naN7DAV6BuH__tkbcKJ9-106" value="Creative weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="390.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="naN7DAV6BuH__tkbcKJ9-109" value="&lt;b&gt;optional&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
