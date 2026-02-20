@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Execution" vertex="1">
-          <mxGeometry height="40" width="80" x="2140" y="320" as="geometry" />
+          <mxGeometry height="40" width="80" x="2140" y="240" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-137" edge="1" parent="1" source="ggW10cT-91b_fXinWMpw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ggW10cT-91b_fXinWMpw-136">
           <mxGeometry relative="1" as="geometry" />
@@ -179,19 +179,19 @@
           <mxGeometry height="40" width="120" x="1240" y="560.75" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Skip KPIs" vertex="1">
-          <mxGeometry height="40" width="80" x="2260" y="320" as="geometry" />
+          <mxGeometry height="40" width="80" x="2260" y="240" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="✓" vertex="1">
-          <mxGeometry height="10" width="10" x="2164" y="375" as="geometry" />
+          <mxGeometry height="10" width="10" x="2164" y="295" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="x" vertex="1">
-          <mxGeometry height="10" width="20" x="2230" y="325" as="geometry" />
+          <mxGeometry height="10" width="20" x="2230" y="245" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-61" edge="1" parent="1" source="ggW10cT-91b_fXinWMpw-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="urxC-ivzDRmMlV5RjOdP-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" value="Performance level" vertex="1">
-          <mxGeometry height="40" width="80" x="2140" y="400" as="geometry" />
+          <mxGeometry height="40" width="80" x="2140" y="320" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-138" edge="1" parent="1" source="ggW10cT-91b_fXinWMpw-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ggW10cT-91b_fXinWMpw-136">
           <mxGeometry relative="1" as="geometry" />
@@ -233,9 +233,6 @@
           <mxGeometry height="40" width="80" x="1080" y="600.75" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-145" edge="1" parent="1" source="ggW10cT-91b_fXinWMpw-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ggW10cT-91b_fXinWMpw-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="urxC-ivzDRmMlV5RjOdP-43" edge="1" parent="1" source="ggW10cT-91b_fXinWMpw-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="urxC-ivzDRmMlV5RjOdP-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggW10cT-91b_fXinWMpw-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Round 2 Fuzzy Delphi" vertex="1">
@@ -296,14 +293,14 @@
         <mxCell id="urxC-ivzDRmMlV5RjOdP-42" edge="1" parent="1" source="urxC-ivzDRmMlV5RjOdP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="urxC-ivzDRmMlV5RjOdP-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="urxC-ivzDRmMlV5RjOdP-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Round 3 Fuzzy Delphi" vertex="1">
-          <mxGeometry height="40" width="160" x="1960" y="240" as="geometry" />
+        <mxCell id="urxC-ivzDRmMlV5RjOdP-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="abcdef" vertex="1">
+          <mxGeometry height="40" width="160" x="1960" y="160" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-56" edge="1" parent="1" source="urxC-ivzDRmMlV5RjOdP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ggW10cT-91b_fXinWMpw-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Final Validated Questionnaire" vertex="1">
-          <mxGeometry height="40" width="120" x="1980" y="320" as="geometry" />
+          <mxGeometry height="40" width="120" x="1980" y="240" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-41" edge="1" parent="1" source="urxC-ivzDRmMlV5RjOdP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="urxC-ivzDRmMlV5RjOdP-35">
           <mxGeometry relative="1" as="geometry" />
@@ -350,10 +347,10 @@
           <mxGeometry height="40" width="80" x="1560" y="600.75" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="có thể dừng ở đây và báo cáo lên 1 bộ kpi hoàn chỉnh là hết bài nghiên cứu" vertex="1">
-          <mxGeometry height="80" width="120" x="882.5" y="760" as="geometry" />
+          <mxGeometry height="80" width="120" x="850" y="760" as="geometry" />
         </mxCell>
         <mxCell id="urxC-ivzDRmMlV5RjOdP-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Sau delphi hướng đi tiếp nnao thì vẽ tiếp sau" vertex="1">
-          <mxGeometry height="80" width="80" x="2260" y="400" as="geometry" />
+          <mxGeometry height="80" width="80" x="2260" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
