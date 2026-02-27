@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
   <diagram name="Page-1" id="f_sIkeoGzWvpjLH1jfwY">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3333" pageHeight="1875" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3333" pageHeight="1875" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,56 +121,230 @@
             <mxPoint x="710" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-80" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 1: Participation&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2380" y="280" as="geometry" />
+          <mxGeometry height="120" width="120" x="2420" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-79" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 2: Transparency of Local Decision-making&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2600" y="220" as="geometry" />
+          <mxGeometry height="120" width="120" x="2660" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-78" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 3: Vertical Accountability&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2820" y="280" as="geometry" />
+          <mxGeometry height="120" width="120" x="2900" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-77" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 4: Control of Corruption in the Public Sector&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2880" y="500" as="geometry" />
+          <mxGeometry height="120" width="120" x="2960" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-76" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 5: Public Administrative Procedures&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2820" y="720" as="geometry" />
+          <mxGeometry height="120" width="120" x="2900" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-75" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 6: Public Service Delivery&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2600" y="780" as="geometry" />
+          <mxGeometry height="120" width="120" x="2660" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-74" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 7: Environmental Governance&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2380" y="720" as="geometry" />
+          <mxGeometry height="120" width="120" x="2420" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-72" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;div&gt;Dimension 8: E-Governance&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="2320" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-24" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-25" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-26" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-27" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-28" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-29" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-30" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFIotc0ijawsrTIboQKe-31" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="120" width="120" x="2360" y="660" as="geometry" />
         </mxCell>
         <mxCell id="NFIotc0ijawsrTIboQKe-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;The Viet Nam Provincial Governance and Public Administration Performance Index (PAPI)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="240" width="240" x="2540" y="440" as="geometry" />
+          <mxGeometry height="240" width="240" x="2600" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-96" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Civic Knowledge&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-97" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Opportunties for Participation in Elections&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-98" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Quality of Village Head Elections&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-99" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Voluntary Contributions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-104" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Access to Information&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2370" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-105" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Poverty List Transparency&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2550" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-106" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Communal Budget Transparency&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2730" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-107" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Transparent Land-Use Plan/Price Frames&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2910" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-86" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Interactions With Local Authorities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-85" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Governments Responsive to Citizen Appeals&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-87" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Access to Justice Services&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-88" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Limits on Corruption in Local Governments&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3120" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-89" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Limits on Corruption in Service Delivery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3120" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-90" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Equity in State Employment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3120" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-91" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Willingness to Fight Corruption&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3120" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-92" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Certification Procedures&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-94" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Land Tittle Procedures&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-95" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Personal Procedures&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-100" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Public Healthcare&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2370" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-101" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Primary Education&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2550" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-102" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Basic Infrastructure&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2730" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-103" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Law and Order&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2900" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-81" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Environmental Protection&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-82" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Quality of Air&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-83" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Quality of Water&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2220" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-67" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Access to E-Government Portals&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2160" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-65" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Access to the Internet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-68" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;E-Reponsiveness of Provincial Authorities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2160" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-93" edge="1" parent="1" source="NFIotc0ijawsrTIboQKe-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NFIotc0ijawsrTIboQKe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIotc0ijawsrTIboQKe-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Construction Permits&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="3060" y="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
